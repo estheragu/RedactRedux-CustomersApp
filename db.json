@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "200000000",
+      "dni": "200000000",
+      "name": "Raul Bonet",
+      "age": 30
+    },
+    {
+      "id": "230000000",
+      "dni": "230000000",
+      "name": "MIA REY",
+      "age": 75
+    },
+    {
+      "name": "ESTHER AGULLÓ",
+      "dni": "74363958",
+      "age": 22,
+      "id": "pQJt3D6"
+    },
+    {
+      "name": "AVSDBDBDFB",
+      "dni": "324565467",
+      "age": 12,
+      "id": "m9KJnEP"
+    }
+  ]
+}
